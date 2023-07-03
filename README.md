@@ -6,10 +6,10 @@ See quizlet sources which contain answers for several of the questions.
 ## Download
 * Using git: `git clone https://github.com/gogocplusplus/cs150-midterm2.git`
 * Using google drive: https://drive.google.com/drive/folders/1HR7O-9s13dyQ0NqVU3SldeKe4lMUQdVB?usp=drive_link
-* Releases: https://github.com/gogocplusplus/cs150--midterm2/releases
+* Releases: https://github.com/gogocplusplus/cs150-midterm2/releases
 * Disregard the Source code .zip and tar.gz
 
---
+---
 
 ## PDFs - Coursereader in .pdf format
 * Below is a github link with all the PDFs, it is more efficent than using the online coursereader because you can search for specific topics using the search tool
@@ -26,7 +26,7 @@ https://www.mythicsoft.com/agentransack/
 ### Example of using free optional search tool
 ![Alt text](OptionalSearch.png)
 
---
+---
 
 ## Anki
 * Anki is a flashcard app. The advantage over quizlet is that it is local and can keep track of the questions you missed and lets you hide the questions you got right for either (for 1 min, 6 min, 10 min, 1 day, can be customized).
